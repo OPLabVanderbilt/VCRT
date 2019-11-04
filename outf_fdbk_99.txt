@@ -1,0 +1,47 @@
+                time	[2017 1 17 14 21 13]
+
+subjno	subjini	age	sex	hand	session
+99	aaa	26	f	r	1
+subjno	subjini	trialnum	fdbkdisp	respdisp	tarloc	resp	ac	rt
+99	aaa	0	prac1	prac1	1	1	1	1516.065683
+99	aaa	0	prac2	prac2	3	3	1	1981.906089
+99	aaa	1	trial_18_isi-1000_limit-2000	trial_17_sections-4_correct-1_feedback-1000	1	1	1	1573.081430
+99	aaa	3	trial_22_isi-1000_limit-2000	trial_21_sections-4_correct-1_feedback-1000	1	1	1	1528.622848
+99	aaa	5	trial_26_isi-1000_limit-2000	trial_25_sections-4_correct-1_feedback-1000	1	1	1	2765.469309
+99	aaa	7	trial_30_isi-1000_limit-2000	trial_29_sections-4_correct-3_feedback-1000	3	3	1	2287.593491
+99	aaa	9	trial_34_isi-1000_limit-2000	trial_33_sections-4_correct-4_feedback-1000	4	3	0	3974.623645
+99	aaa	11	trial_38_isi-1000_limit-2000	trial_37_sections-4_correct-3_feedback-1000	3	3	1	725.944607
+99	aaa	13	trial_42_isi-1000_limit-2000	trial_41_sections-4_correct-4_feedback-1000	4	3	0	1027.754303
+99	aaa	15	trial_46_isi-1000_limit-2000	trial_45_sections-4_correct-3_feedback-1000	3	3	1	1966.037911
+99	aaa	17	trial_50_isi-1000_limit-2000	trial_49_sections-4_correct-2_feedback-1000	2	3	0	1865.001318
+99	aaa	19	trial_54_isi-1000_limit-2000	trial_53_sections-4_correct-3_feedback-1000	3	3	1	1368.595690
+99	aaa	21	trial_58_isi-1000_limit-2000	trial_57_sections-4_correct-4_feedback-1000	4	3	0	820.370953
+99	aaa	23	trial_62_isi-1000_limit-2000	trial_61_sections-4_correct-4_feedback-1000	4	3	0	830.537190
+99	aaa	25	trial_66_isi-1000_limit-2000	trial_65_sections-4_correct-2_feedback-1000	2	3	0	1000.614102
+99	aaa	27	trial_70_isi-1000_limit-2000	trial_69_sections-4_correct-1_feedback-1000	1	3	0	379.664801
+99	aaa	29	trial_74_isi-1000_limit-2000	trial_73_sections-4_correct-2_feedback-1000	2	3	0	1775.711593
+99	aaa	31	trial_78_isi-1000_limit-2000	trial_77_sections-4_correct-3_feedback-1000	3	3	1	1097.668784
+99	aaa	33	trial_82_isi-1000_limit-2000	trial_81_sections-4_correct-2_feedback-1000	2	2	1	1488.319251
+99	aaa	35	trial_86_isi-1000_limit-2000	trial_85_sections-4_correct-1_feedback-1000	1	2	0	1136.063774
+99	aaa	37	trial_90_isi-1000_limit-2000	trial_89_sections-4_correct-4_feedback-1000	4	2	0	1117.830142
+99	aaa	39	trial_94_isi-1000_limit-2000	trial_93_sections-4_correct-2_feedback-1000	2	3	0	1027.644701
+99	aaa	41	trial_98_isi-1000_limit-2000	trial_97_sections-4_correct-4_feedback-1000	4	3	0	707.819815
+99	aaa	43	trial_102_isi-1000_limit-2000	trial_101_sections-4_correct-1_feedback-1000	1	3	0	2074.513794
+99	aaa	45	trial_106_isi-1000_limit-2000	trial_105_sections-4_correct-3_feedback-1000	3	3	1	705.337722
+99	aaa	47	trial_110_isi-1000_limit-2000	trial_109_sections-4_correct-3_feedback-1000	3	3	1	1616.868158
+99	aaa	49	trial_114_isi-1000_limit-2000	trial_113_sections-4_correct-1_feedback-1000	1	3	0	1673.785742
+99	aaa	51	trial_118_isi-1000_limit-2000	trial_117_sections-4_correct-3_feedback-1000	3	3	1	1129.561741
+99	aaa	53	trial_122_isi-1000_limit-2000	trial_121_sections-4_correct-2_feedback-1000	2	3	0	967.636727
+99	aaa	55	trial_126_isi-1000_limit-2000	trial_125_sections-4_correct-1_feedback-1000	1	3	0	939.850177
+99	aaa	57	trial_130_isi-1000_limit-2000	trial_129_sections-4_correct-1_feedback-1000	1	3	0	841.298874
+99	aaa	59	trial_134_isi-1000_limit-2000	trial_133_sections-4_correct-3_feedback-1000	3	3	1	489.428417
+99	aaa	61	trial_138_isi-1000_limit-2000	trial_137_sections-4_correct-1_feedback-1000	1	3	0	433.516667
+99	aaa	63	trial_142_isi-1000_limit-2000	trial_141_sections-4_correct-3_feedback-1000	3	3	1	387.609136
+99	aaa	65	trial_146_isi-1000_limit-2000	trial_145_sections-4_correct-1_feedback-1000	1	3	0	431.688144
+99	aaa	67	trial_150_isi-1000_limit-2000	trial_149_sections-4_correct-2_feedback-1000	2	3	0	1073.910152
+99	aaa	69	trial_154_isi-1000_limit-2000	trial_153_sections-4_correct-2_feedback-1000	2	3	0	1697.999279
+99	aaa	71	trial_158_isi-1000_limit-2000	trial_157_sections-4_correct-3_feedback-1000	3	3	1	471.916914
+99	aaa	73	trial_162_isi-1000_limit-2000	trial_161_sections-4_correct-3_feedback-1000	3	3	1	929.144931
+99	aaa	75	trial_166_isi-1000_limit-2000	trial_165_sections-4_correct-4_feedback-1000	4	2	0	1838.465124
+99	aaa	77	trial_170_isi-1000_limit-2000	trial_169_sections-4_correct-1_feedback-1000	1	2	0	454.786371
+99	aaa	79	trial_174_isi-1000_limit-2000	trial_173_sections-4_correct-3_feedback-1000	3	1	0	680.874878
